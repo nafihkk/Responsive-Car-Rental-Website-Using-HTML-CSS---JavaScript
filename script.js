@@ -69,14 +69,17 @@ ScrollReveal().reveal(".download__image img", {
   ...scrollRevealOption,
   origin: "right",
 });
+
 ScrollReveal().reveal(".download__content .section__header", {
   ...scrollRevealOption,
   delay: 500,
 });
+
 ScrollReveal().reveal(".download__content p", {
   ...scrollRevealOption,
   delay: 1000,
 });
+
 ScrollReveal().reveal(".download__links", {
   ...scrollRevealOption,
   delay: 1500,

@@ -11,8 +11,8 @@
 }
 
 * {
-    padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 
@@ -420,7 +420,7 @@ nav {
   border-bottom: 1px solid var(--text-light);
 }
 
-.footer__col h4 {
+.footer__col h4{
   margin-bottom: 2rem;
   font-size: 1.25rem;
   font-weight: 700;
@@ -432,7 +432,7 @@ nav {
   gap: 1rem;
 }
 
-.footer__links a {
+.footer__links a{
   font-weight: 600;
   color: var(--text-light);
 }
