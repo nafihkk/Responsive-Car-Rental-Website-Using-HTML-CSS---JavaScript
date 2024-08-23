@@ -285,7 +285,12 @@ nav {
   border-radius: 5px;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
 }
-
+.service__list li:hover span {
+  padding: 14px 21px;
+  background: var(--gradient);
+  color: var(--white);
+  border: none;
+}
 .service__list h4 {
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
@@ -334,7 +339,12 @@ nav {
   border-radius: 5px;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
 }
-
+.experience__card:hover span {
+  padding: 14px 21px;
+  background: var(--gradient);
+  color: var(--white);
+  border: none;
+}
 .experience__card h4 {
   font-size: 1rem;
   font-weight: 700;
